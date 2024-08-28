@@ -10,6 +10,8 @@ Speedify is a modern internet speed testing tool designed for simplicity and acc
 
 ## 🎨 Screenshot
 
+![Screenshot](./screenshot.png)
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
